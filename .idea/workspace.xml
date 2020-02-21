@@ -94,11 +94,25 @@
       <option name="presentableId" value="Default" />
       <updated>1582255209821</updated>
     </task>
+    <task id="LOCAL-00001" summary="branch test">
+      <created>1582276399640</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1582276399640</updated>
+    </task>
+    <task id="LOCAL-00002" summary="branch test">
+      <created>1582276613556</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1582276613556</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="1295" height="735" extended-state="6" />
-    <editor active="true" />
     <layout>
       <window_info id="Captures" order="0" weight="0.25" />
       <window_info id="Capture Tool" order="1" />
@@ -142,6 +156,10 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="branch test" />
+    <option name="LAST_COMMIT_MESSAGE" value="branch test" />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/readme.txt">
